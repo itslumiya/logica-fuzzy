@@ -53,7 +53,7 @@ CaluloObesidade.compute()
 
 chancesObesidadeResult = CaluloObesidade.output['chancesObesidade']
 
-print("\nCalorias consumidas (dia) %5.2f \n Horas exercicio (dia) %5.2f \n Chances de %5.2f de ser obeso" %(
+print("\nCalorias consumidas (dia) %5.2f \nHoras exercicio (dia) %5.2f \nChances de %5.2f de ser obeso" %(
         qtdeCaloriasDia,
         qtdeHorasExercicioDia,
         chancesObesidadeResult))
